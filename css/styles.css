@@ -1,0 +1,28 @@
+
+.flex {
+    display: flex;
+    justify-content: space-between;
+flex-direction: row;
+
+} 
+
+.header {
+
+display: flex;  
+justify-content: center;
+
+color: royalblue;
+
+
+}
+.main {
+display: flex;
+flex-direction: column;
+
+
+}
+
+.navbar-brand{
+
+    color: royalblue;
+}
